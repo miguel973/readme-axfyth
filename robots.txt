@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miguel973.github.io/readme-axfyth/sitemap.xml
